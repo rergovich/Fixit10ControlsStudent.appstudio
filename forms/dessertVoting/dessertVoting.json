@@ -27,6 +27,24 @@
         "Elements",
         "drpDesserts.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dessertVoting",
+        "Elements",
+        "lblChoice.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dessertVoting",
+        "Elements",
+        "btndescribeYou.json"
+      ]
     }
   ],
   "class": "",

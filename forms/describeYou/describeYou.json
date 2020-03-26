@@ -18,6 +18,24 @@
         "Elements",
         "lblPrompt2.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "rbtnPersonality.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnfavExercises.json"
+      ]
     }
   ],
   "class": "",
